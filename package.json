@@ -1,0 +1,24 @@
+{
+  "name": "bibliotheque-de-quebec-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyfortinx/bibliotheque-de-quebec-crawler.git"
+  },
+  "author": "jimmyfortinx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimmyfortinx/bibliotheque-de-quebec-crawler/issues"
+  },
+  "homepage": "https://github.com/jimmyfortinx/bibliotheque-de-quebec-crawler#readme",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
